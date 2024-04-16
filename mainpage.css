@@ -1,0 +1,40 @@
+body{
+    font-family: 'Inter', 'Spoqa Han Sans', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', 'Noto Sans', 'sans-serif';
+    color: #000000;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+header > img{
+    width: 154px;
+    height: 31px;
+
+}
+
+li{
+    list-style: none;
+}
+
+li > a{
+    margin: 10px;
+    text-align: center;
+    color: #000000;
+}
+
+
+header > nav{
+    display: flex;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+}
