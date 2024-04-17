@@ -51,8 +51,17 @@ a:hover{
 
 .description{
     font-size: 13px; color: rgb(85, 85, 85);
+    line-height: 190%;
+    width: 40%;
+    margin: 5%;
 }
 
 .description > .d-content{
     color: rgb(85, 85, 85);
+}
+
+.description > .d-name{
+    margin-top: 5%;
+    display: flex;
+    justify-content: flex-end;
 }
