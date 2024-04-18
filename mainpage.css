@@ -68,6 +68,13 @@ a:hover{
 }
 
 .store-title{
-    border-top: solid #000;
+    border-top: solid  1px rgb(85, 85, 85);
     width: 100%;
+    margin: 10% 0 0;
+    border-bottom: solid 0.5px #e5e7eb;
+}
+
+.store-name{
+    font-size: 24px;
+    margin: 20px 0;
 }
