@@ -66,3 +66,8 @@ a:hover{
     display: flex;
     justify-content: flex-end;
 }
+
+.store-title{
+    border-top: solid #000;
+    width: 100%;
+}
