@@ -93,3 +93,19 @@ a:hover{
     top: 0;
     left: 0;
 }
+
+.store-bottom{
+    display: flex;
+}
+
+.store-bottom > .notice{
+    width: 300px;
+    padding: 2%;
+    padding-left: 0;
+}
+
+.store-bottom > .store-description{
+    width: 600px;
+    padding: 2%;
+    padding-left: 7%;
+}
