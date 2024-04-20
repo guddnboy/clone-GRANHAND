@@ -116,8 +116,42 @@ a:hover{
     justify-content: space-between;
 }
 
+.shop-contents{
+    width: 70%;
+}
+
+.shop-items{
+    display: flex;
+    justify-content: space-between;
+}
+
 .shop-title,
 .komfortabel{
     font-size: 24px;
     margin-bottom: 5%;
+}
+
+.gift,
+.dif{
+    width: 45%;
+}
+
+.gift-t,
+.dif-t{
+    font-size: 14px;
+    padding: 6px 0px;
+    border-top: solid  1px rgb(85, 85, 85);
+    border-bottom: solid 0.5px #e5e7eb;
+}
+
+.gift-name,
+.dif-name{
+    color: #999;
+    margin: 1px;
+}
+
+.gift-img,
+.dif-img{
+    width: 100%;
+
 }
