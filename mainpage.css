@@ -89,13 +89,14 @@ a:hover{
 .store-img > img{
     position: absolute;
     height: 800px;
-    width: 1000px;
+    width: 100%;
     top: 0;
     left: 0;
 }
 
 .store-bottom{
     display: flex;
+    margin-bottom: 15%;
 }
 
 .store-bottom > .notice{
@@ -108,4 +109,15 @@ a:hover{
     width: 600px;
     padding: 2%;
     padding-left: 7%;
+}
+
+#main-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+.shop-title,
+.komfortabel{
+    font-size: 24px;
+    margin-bottom: 5%;
 }
