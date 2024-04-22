@@ -125,10 +125,18 @@ a:hover{
     justify-content: space-between;
 }
 
-.shop-title,
-.komfortabel{
+.shop-title{
     font-size: 24px;
     margin-bottom: 5%;
+}
+
+.komf-title{
+    font-size: 20px;
+    margin-bottom: 10%;
+}
+
+.komfortabel{
+    width: 20%;
 }
 
 .gift,
@@ -137,7 +145,8 @@ a:hover{
 }
 
 .gift-t,
-.dif-t{
+.dif-t,
+.komf-t{
     font-size: 14px;
     padding: 6px 0px;
     border-top: solid  1px rgb(85, 85, 85);
@@ -145,13 +154,23 @@ a:hover{
 }
 
 .gift-name,
-.dif-name{
+.dif-name,
+.komf-order{
     color: #999;
     margin: 1px;
 }
 
 .gift-img,
-.dif-img{
+.dif-img,
+.komf-img{
     width: 100%;
 
+}
+
+.gift-d,
+.dif-d,
+.komf-d{
+    font-size: 13px;
+    color: rgb(85, 85, 85);
+    margin-top: 4%;
 }
