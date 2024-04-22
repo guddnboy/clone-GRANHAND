@@ -62,6 +62,7 @@ a:hover{
 }
 
 .description > .d-name{
+    font-size: 14px;
     margin-top: 5%;
     display: flex;
     justify-content: flex-end;
