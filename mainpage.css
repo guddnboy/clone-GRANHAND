@@ -192,8 +192,7 @@ a:hover{
 
 }
 
-.bookstore,
-.spring{
-    width: 40%;
-    height: auto;
+.bookstore > img,
+.spring > img{
+    height: 50%;
 }
