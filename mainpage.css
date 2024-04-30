@@ -136,6 +136,12 @@ a:hover{
     margin-bottom: 10%;
 }
 
+.journal-title{
+    font-size: 24px;
+    margin-bottom: 5%;
+
+}
+
 .komfortabel{
     width: 250px;
 }
@@ -174,4 +180,13 @@ a:hover{
     font-size: 13px;
     color: rgb(85, 85, 85);
     margin-top: 4%;
+}
+
+.journal-area{
+    margin-top: 15%;
+}
+
+.journal-contents{
+    display: flex;
+    
 }
