@@ -21,6 +21,11 @@ header{
     align-items: center;
 }
 
+img{
+    cursor: pointer;
+}
+
+
 .title{
     width: 154px;
     height: 31px;
@@ -195,4 +200,13 @@ a:hover{
 .bookstore > img,
 .spring > img{
     height: 50%;
+}
+
+.j-notice{
+    display: flex;
+}
+
+.j-attribute{
+    display: flex;
+    justify-content: space-between;
 }
