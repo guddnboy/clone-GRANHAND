@@ -188,5 +188,12 @@ a:hover{
 
 .journal-contents{
     display: flex;
-    
+    justify-content: space-between;
+
+}
+
+.bookstore,
+.spring{
+    width: 40%;
+    height: auto;
 }
