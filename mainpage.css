@@ -226,15 +226,12 @@ a:hover{
     color: rgb(85, 85, 85);
 }
 
-
-
 .j-notice{
     display: flex;
     height: 40px;
     padding-bottom: 10px;
     border-bottom: solid 1px #e5e7eb;
 }
-
 
 .j-attribute{
     display: flex;
