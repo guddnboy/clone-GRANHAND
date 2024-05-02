@@ -197,10 +197,25 @@ a:hover{
 
 }
 
-.bookstore > img,
-.spring > img{
-    height: 50%;
+.bookstore,
+.spring{
+    width: 50%;
+    padding: 10px;
 }
+
+.b-wrap,
+.s-wrap{
+    width: 100%;
+}
+
+.b-wrap > img,
+.s-wrap > img{
+    width: 100%;
+    height: 300px;
+    padding-bottom: 10%;
+}
+
+
 
 .j-notice{
     display: flex;
