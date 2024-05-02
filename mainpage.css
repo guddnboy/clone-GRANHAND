@@ -230,7 +230,7 @@ a:hover{
     display: flex;
     height: 40px;
     padding-bottom: 10px;
-    border-bottom: solid 1px #e5e7eb;
+    border-bottom: solid 0.5px #e5e7eb;
 }
 
 .j-attribute{
